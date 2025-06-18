@@ -732,3 +732,5 @@ A lot of the app currently piggybacks on Google's existing support for fetching 
 
 #### Mobile
 ![Whoogle Mobile](docs/screenshot_mobile.png)
+#   I n f i n i t y - s e a r c h  
+ 
